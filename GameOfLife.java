@@ -18,6 +18,9 @@ import java.io.*;
 
 /**
  * Implements Conway's Game of Life
+ * Takes input file 
+ * (first generation) and displays a given number of generations
+ * based on the rules of Conway's Game of Life
  */
 public class GameOfLife {
 	private char[][] board;
