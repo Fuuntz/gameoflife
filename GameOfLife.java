@@ -16,7 +16,9 @@
 import java.util.Scanner;
 import java.io.*;
 
-
+/**
+ * Implements Conway's Game of Life
+ */
 public class GameOfLife {
 	private char[][] board;
 	private int numGenerations;
