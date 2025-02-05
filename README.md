@@ -1,7 +1,5 @@
-# My Git Project
-
 ## Author
-Tyler Fuentes
+**Tyler Fuentes**
 
 ## GitHub Repository
 [GitHub Repo Link](https://github.com/Fuuntz/gameoflife)
